@@ -1,0 +1,21 @@
+BuildingName: Hugos Appartment
+Floors: 8
+xRooms: 4
+yRooms: 4
+RoomLength: 8
+RoomWidth: 10
+RoomHeight: 4
+BuildingName: Lukas Appartment
+Floors: 5
+xRooms: 3
+yRooms: 4
+RoomLength: 5
+RoomWidth: 6
+Room Height: 3
+BuildingName: Empire
+Floors: 100
+xRooms: 20
+yRooms: 30
+RoomLength: 15
+RoomWidth: 10
+RoomHeight: 3
